@@ -1,3 +1,10 @@
 # Table of contents
 
 * [Gitbook Template](README.md)
+* [articles](articles/README.md)
+  * [最新](articles/latest/README.md)
+    * [给力讯息智能拓客系统](articles/giving-information-intelligent-lead-generation-system-95-20241205-8-1-1733390110.md)
+    * [给力标讯智能招投标分析系统](articles/95-20241205-8-2-1733390132.md)
+    * [真人语音互动交流，AI识别意向客户](articles/95-20241205-8-3-1733390147.md)
+    * [数据实时分析，微信实时通知](articles/data-real-time-analysis-wechat-real-time-notifications-95-20241205-8-4-1733390162.md)
+    * [意向客户单位成本低，ROI超高的拓客方式](articles/ultra-low-cost-high-roi-lead-generation-95-20241205-8-5-1733390188.md)
