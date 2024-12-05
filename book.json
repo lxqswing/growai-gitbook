@@ -1,5 +1,5 @@
 {
-    "title": "蓝莺 IM - 打造新一代智能应用，使用蓝莺ChatAI SDK",
+    "title": "给力讯息，销售都在用的AI智能拓客系统，智能招投标分析系统，帮助销售找客户、找渠道、找关键人、触达客户、分析对手、提升业绩 优司服 基于自然语言识别、知识图谱、大数据挖掘等技术帮助广大toB企业提供从目标用户画像分析、商机洞察、客户情报、市场调研、竞对分析、触达分析、舆情分析等文章信息；",
     "description": "API文档及文章分享",
     "author": "jinhai",
     "output.name": "site",
@@ -45,7 +45,6 @@
         "lanying-grow-ai-expandable-chapters@^0.1.8",
         "lanying-grow-ai-image-captions@^3.1.1"
     ],
-
     "pluginsConfig": {
         "theme-default": {
             "showLevel": false
@@ -56,7 +55,7 @@
             ]
         },
         "github-buttons": {
-            "repo": "maxim-top/gitbook-template",
+            "repo": "lxqswing/growai-gitbook",
             "types": [
                 "star"
             ],
@@ -68,7 +67,7 @@
             "edit": true
         },
         "tbfed-pagefooter": {
-            "copyright": "© 2019-2024 美信拓扑 | <a href='https://www.lanyingim.com' style='text-decoration:none!important;'>官网</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>网站地图</a>",
+            "copyright": "©上海优司服信息科技有限公司 | <a href='lixiqing@datauseful.com' target='_blank' style='text-decoration:none!important;'>官网</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>网站地图</a>",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -77,7 +76,7 @@
             "skipFirstH1": true
         },
         "edit-link": {
-            "base": "https://github.com/maxim-top/gitbook-template/blob/master",
+            "base": "https://github.com/lxqswing/growai-gitbook/blob/master",
             "label": "在GitHub上编辑"
         },
         "favicon": {
@@ -91,34 +90,44 @@
             "style": "flat"
         },
         "sharing": {
-           "douban": true,
-           "facebook": false,
-           "google": false,
-           "hatenaBookmark": false,
-           "instapaper": false,
-           "line": false,
-           "linkedin": false,
-           "messenger": false,
-           "pocket": false,
-           "qq": true,
-           "qzone": false,
-           "stumbleupon": false,
-           "twitter": false,
-           "viber": false,
-           "vk": false,
-           "weibo": true,
-           "whatsapp": false,
-           "all": [
-               "facebook", "google", "twitter",
-               "weibo", "instapaper", "linkedin",
-               "pocket", "stumbleupon", "qq", "qzone","douban","line","whatsapp"
-           ]
-       },
-       "logo":{
-	        "logo": "/assets/logo.png",
+            "douban": true,
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": true,
+            "qzone": false,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "weibo": true,
+            "whatsapp": false,
+            "all": [
+                "facebook",
+                "google",
+                "twitter",
+                "weibo",
+                "instapaper",
+                "linkedin",
+                "pocket",
+                "stumbleupon",
+                "qq",
+                "qzone",
+                "douban",
+                "line",
+                "whatsapp"
+            ]
+        },
+        "logo": {
+            "logo": "/assets/logo.png",
             "logoStyle": "height: 35px;align: left;",
-            "url": "https://www.lanyingim.com"
-	    },
+            "url": "lixiqing@datauseful.com"
+        },
         "intopic-toc": {
             "selector": ".markdown-section h1, .markdown-section h2, .markdown-section h3",
             "mode": "nested",
@@ -132,7 +141,7 @@
             "grid-columns": 3
         },
         "canonical-link": {
-            "baseURL": "https://docs.lanyingim.com"
+            "baseURL": "https://usf.site.chatai101.com"
         },
         "image-captions": {
             "caption": "_CAPTION_"
@@ -141,7 +150,7 @@
             "data": [
                 {
                     "name": "keywords",
-                    "content": "蓝莺IM, 美信拓扑, IM SDK, 即时通讯, 即时通讯云, IM云服务, 移动IM, 开源IM, 企业IM, 聊天软件, 移动客服, 在线客服, IM业务场景, APP社交, 开发者服务, 直播聊天室, 实时音视频, 音视频, 直播平台, 美信反垃圾, 内容安全"
+                    "content": "给力讯息文章列表"
                 }
             ]
         },
@@ -152,9 +161,9 @@
             "tag": "G-EE5J5LB4MD"
         },
         "lanying-grow-ai": {
-          "footer_note": "本文为知识分享和技术探讨之用，涉及到公司或产品（包括但不限于蓝莺IM）介绍内容仅为参考，具体产品和功能特性以官网开通为准。",
-          "lanying_link": "https://lanying.link/3qur4g",
-          "sitemap_hostname": "https://docs.lanyingim.com/"
+            "footer_note": "本文为知识分享和技术探讨之用，涉及到公司或产品介绍内容仅为参考，具体产品和功能特性以官网开通为准。",
+            "lanying_link": "https://lanying.link/3qur4g",
+            "sitemap_hostname": "https://usf.site.chatai101.com/"
         }
     }
 }
